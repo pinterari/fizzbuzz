@@ -13,7 +13,7 @@ class FizzBuzzPrinter {
         for(var i = this._range.from; i <= this._range.to; ++i) {
             result.push({
                 number: i,
-                value: FizzBuzz(i).toString()
+                value: FizzBuzz(i)
             });
         }
         return result;
