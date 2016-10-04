@@ -1,0 +1,27 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"**/*.spec.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinterari/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinterari/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/pinterari/fizzbuzz#readme",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.1.0"
+  }
+}
